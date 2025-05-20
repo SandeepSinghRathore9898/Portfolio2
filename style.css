@@ -94,10 +94,15 @@ a:active {
     }.image>img{
       width: 200px;
       height: 200px;
-      padding-bottom:300px;
+      
+    }
+  .image{
+      padding-bottom: 50px;
     }
     .texts>p{
-      font-size: 5vw;
+       font-size: 6vw;
+      word-spacing: 2px;
+      letter-spacing: 1px;
     }
     .contactme{
      font-size: 15px;
